@@ -9,12 +9,12 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: ZhaoKang-Lab
-subtitle: Bupt
+title: Moemoemaru
+subtitle: Developer & Composer
 
 left_side:
   background_image: "./assets/images/left-background.jpg"
-  background_color: "#D05"
+  background_color: "#F26"
 #   close_button_color: "#000"
 #   text_color: "#000"
 
@@ -50,7 +50,7 @@ social_icons:
 #     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/zhaokang-lab
+    link: https://github.com/Moemoemaru
     icon: fab fa-github-square
 
 #   - name: facebook
