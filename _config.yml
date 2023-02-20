@@ -34,6 +34,10 @@ menu:
   - text: Contact Me
     link: /contact
     icon: ""
+    
+  - text: Honors & Awards
+    link: /honor-awards
+    icon: ""
 
 #   - text: Research Group
 #     link: /group
