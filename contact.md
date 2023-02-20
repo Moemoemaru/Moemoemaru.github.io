@@ -3,18 +3,16 @@
 
 # Contact Me
 
-## Kang Zhao （赵康）
+## Zirui Li （李子睿）
 
-北京邮电大学 集成电路学院 教授 博士生导师
+北京邮电大学 集成电路学院 硕士研究生（在读）
 
-Professor, Ph.D. Advisor
+Graduate Student
 
 Department of Integrated circuit
 
 Beijing University of Posts and Telecommunications
  
- Email: zhaokang@bupt.edu.cn
- 
- Office: Rom 111, Scientific-Research Building (科研楼111)
- 
- Addr: Xitucheng Road 10, Beijing University of Posts and Telecommunications, Haidian district, Beijing 100876, China.
+- Email: lzr_official@163.com
+- Bilibili: https://space.bilibili.com/17763055
+- Youtube: https://www.youtube.com/@moemoemaru3396 
