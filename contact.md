@@ -1,7 +1,7 @@
 ---
 ---
 
-# Contact Me
+# CONTACT ME
 
 ## Zirui Li （李子睿）
 
